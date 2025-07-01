@@ -1,5 +1,7 @@
 Restaurant Rating Prediction, Recommendation and Analysis
 
+Internship at Cognifyz technologies 
+
       This project focuses on building a machine learning system that predicts restaurant ratings, recommends restaurants
       based on user preferences,and analyzes cuisine trends.It using multiple algorithms and data processing techniques to 
       deliver insights predictions.
